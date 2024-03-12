@@ -7,3 +7,7 @@ Hi there!
   a) How to create Repo.
   b)how to create new file in our repo,
   c)how 5o do commit in existing file.
+  d)how to go to previous version of our file.
+  e)how to create another branch(side brance) for major change and after compliting the main branch changes merging both branch to final.
+  f)In last I learned how I can get someone's else code and and forked it and add another file and do changes.
+
